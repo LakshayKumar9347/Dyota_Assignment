@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-oranienbaum: Oranienbaum;
+  --font-forum: Forum;
+
+  /* font sizes */
+  --font-size-33xl: 3.25rem;
+  --font-size-29xl: 3rem;
+  --font-size-20xl: 2.44rem;
+  --font-size-5xl: 1.5rem;
+  --font-size-12xl: 1.94rem;
+  --font-size-67xl: 5.38rem;
+  --font-size-18xl: 2.31rem;
+  --font-size-21xl: 2.5rem;
+  --font-size-90xl: 6.81rem;
+  --font-size-27xl: 2.88rem;
+
+  /* Colors */
+  --color-gray-100: #fefefe;
+  --color-gray-200: #171717;
+  --color-dimgray: #525254;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+
+  /* border radiuses */
+  --br-2xs: 11px;
+}
